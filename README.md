@@ -6,9 +6,9 @@
 Welcome to **Optimizing Generative AI on Arm Processors**, a hands-on course designed to help you optimize generative AI workloads on Arm architectures. Through practical labs and structured lectures, you will learn how to deploy AI models efficiently across different Arm-based environments.
 
 ## Intended Audience
-This course is designed for developers, ML engineers, and technically confident students who want practical experience deploying and optimizing generative AI workloads on Arm platforms. It is best suited to learners with a foundational understanding of machine learning and some familiarity with Python-based AI workflows, Jupyter notebooks, and command-line tools.
+This course is designed for intermediate machine learning practitioners who want to bridge the gap between model design and deployment efficiency. Rather than revisiting ML fundamentals, this course dives straight into performance engineering for generative AI on Arm-based platforms, including edge and cloud environments.
 
-The course is particularly relevant for those interested in running AI inference efficiently across edge and cloud environments, including devices such as Raspberry Pi 5 and Arm-based cloud servers.
+The course is suitable for learners with a foundational understanding of machine learning and some familiarity with Python-based AI workflows, Jupyter notebooks, and command-line tools.
 
 ## What You'll Learn
 By the end of this course, you will have a strong foundation in deploying high-performance AI models on Arm hardware.
