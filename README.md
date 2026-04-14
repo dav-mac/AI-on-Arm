@@ -46,7 +46,7 @@ Inside the `slides/` folder, you will find four lectures covering the key concep
 
 ## 🚀 Start here
 
-> **New to this course? Start here:**
+> **New to this course? Do this:**
 >
 > Clone this repo, then follow the setup guide to get your environment ready and launch your first lab:
 >
