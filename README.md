@@ -44,13 +44,12 @@ Inside the `slides/` folder, you will find four lectures covering the key concep
 
 ---
 
-## 🚀 Start here
+## 🚀 Start here 🚀
 
-> **New to this course? Do this:**
+> **New to this course? Follow these steps:**
 >
-> Clone this repo, then follow the setup guide to get your environment ready and launch your first lab:
->
-> 👉 [getting_started.md](https://github.com/dav-mac/AI-on-Arm/blob/main/getting_started.md)
+> - Clone the repo with `git clone https://github.com/arm-education/ai_on_arm.git`
+> - Follow the [setup guide](https://github.com/dav-mac/AI-on-Arm/blob/main/getting_started.md) to get your environment ready and launch your first lab.
 
 ---
 
