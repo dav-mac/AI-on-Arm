@@ -48,7 +48,7 @@ To run the laboratory exercises, you will need to have access to a Raspberry Pi 
 ## Special Thanks
 * **✍️ Primary Author:** AI researcher, [Oliver Grainge](https://github.com/OliverGrainge)
 
-## Where to start
+## Where to Start
 To begin, clone this repository and then follow the instructions in [GettingStarted.md](https://github.com/arm-education/AI-For-Beginners/edit/main/getting_started.md)
 
 
