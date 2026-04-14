@@ -55,7 +55,7 @@ To run the laboratory exercises, you will need to have access to a Raspberry Pi 
 # Additional Notes
 
 ## Don't Forget
-- For Lab 2 and 3 make sure to terminate the EC2 instance when you're done to avoid unnecessary charges.
+- After completing Labs 2 and 3, remember to terminate the EC2 instance to avoid unnecessary charges.
 
 ## Special Thanks
 **✍️ Primary Author:** AI researcher, [Oliver Grainge](https://github.com/OliverGrainge).
