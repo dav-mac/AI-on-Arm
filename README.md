@@ -42,14 +42,30 @@ This course assumes a foundational understanding of machine learning, including 
 ### Hardware and Software
 To run the laboratory exercises, you will need to have access to a Raspberry Pi 5 and an Arm-based cloud instance. We have validated this on an AWS Graviton instance but it is expected to work through other cloud service providers. 
 
-## **Additional Notes**
+
+## 🚀 Start Here
+
+> **New to this course? Start here:**
+>
+> Clone this repo, then follow the setup guide to get your environment ready and launch your first lab:
+>
+> 👉 [getting_started.md](https://github.com/dav-mac/AI-on-Arm/blob/main/getting_started.md)
+
+
+# Additional Notes
+
+## Don't Forget
 - For Lab 2 and 3 make sure to terminate the EC2 instance when you're done to avoid unnecessary charges.
 
 ## Special Thanks
-* **✍️ Primary Author:** AI researcher, [Oliver Grainge](https://github.com/OliverGrainge)
+**✍️ Primary Author:** AI researcher, [Oliver Grainge](https://github.com/OliverGrainge).
 
-## Where to Start
-To begin, clone this repository and then follow the instructions in [GettingStarted.md](https://github.com/arm-education/AI-For-Beginners/edit/main/getting_started.md)
+## License
+You are free to fork or clone this material. See `LICENSE.md` for the complete license.
 
-
-
+## Inclusive Language Commitment
+Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
+ 
+Arm is working actively with our partners, standards bodies, and the wider ecosystem to adopt a consistent approach to the use of inclusive language and to eradicate and replace offensive terms. We recognise that this will take time. This course may contain references to non-inclusive language; it will be updated with newer terms as those terms are agreed and ratified with the wider community. 
+ 
+Contact us at education@arm.com with questions or comments about this course. You can also report non-inclusive and offensive terminology usage in Arm content at terms@arm.com.
