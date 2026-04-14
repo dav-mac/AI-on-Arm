@@ -42,6 +42,7 @@ Inside the `slides/` folder, you will find four lectures covering the key concep
 | Lecture 3 | **ML Frameworks and Optimized Libraries**            | [chapter3.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter3.pptx) | A deep dive into AI software stacks, including PyTorch, ONNX Runtime, and Arm-specific optimizations. |
 | Lecture 4 | **Optimization for CPU Inference**                   | [chapter4.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter4.pptx) | Techniques such as quantization, pruning, and leveraging SIMD instructions for faster AI performance. |
 
+---
 
 ## 🚀 Start here
 
@@ -51,6 +52,7 @@ Inside the `slides/` folder, you will find four lectures covering the key concep
 >
 > 👉 [getting_started.md](https://github.com/dav-mac/AI-on-Arm/blob/main/getting_started.md)
 
+---
 
 # Additional notes
 
