@@ -35,12 +35,12 @@ This course consists of three hands-on labs and four lectures.
 ### Lectures
 Inside the `slides/` folder, you will find four lectures covering the key concepts and challenges in AI inference on Arm:
 
-| Part      | Title                                                | File          | Focus                                                                                                 |
-|-----------|------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------|
-| Lecture 1 | **Challenges Facing Cloud and Edge GenAI Inference** | [chapter1.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter1.pptx) | Understanding the limitations and constraints of AI inference in different environments.              |
-| Lecture 2 | **Generative AI Models**                             | [chapter2.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter2.pptx) | Exploring model architectures, training methodologies, and deployment considerations.                 |
-| Lecture 3 | **ML Frameworks and Optimized Libraries**            | [chapter3.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter3.pptx) | A deep dive into AI software stacks, including PyTorch, ONNX Runtime, and Arm-specific optimizations. |
-| Lecture 4 | **Optimization for CPU Inference**                   | [chapter4.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter4.pptx) | Techniques such as quantization, pruning, and leveraging SIMD instructions for faster AI performance. |
+| Part      | File                                                                                        | Title                                               | Focus                                                                                                 |
+|-----------|---------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Lecture 1 | [chapter1.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter1.pptx)  | **Challenges Facing Cloud and Edge GenAI Inference** | Understanding the limitations and constraints of AI inference in different environments.             |
+| Lecture 2 | [chapter2.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter2.pptx)  | **Generative AI Models**  | Exploring model architectures, training methodologies, and deployment considerations.                 |
+| Lecture 3 | [chapter3.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter3.pptx)  | **ML Frameworks and Optimized Libraries** | A deep dive into AI software stacks, including PyTorch, ONNX Runtime, and Arm-specific optimizations. |
+| Lecture 4 | [chapter4.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter4.pptx)  | **Optimization for CPU Inference**  | Techniques such as quantization, pruning, and leveraging SIMD instructions for faster AI performance. |
 
 ---
 
