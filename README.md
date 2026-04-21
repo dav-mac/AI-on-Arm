@@ -21,7 +21,7 @@ This course assumes a foundational understanding of machine learning, including 
 ### Hardware and software
 To run the laboratory exercises, you will need to have access to a Raspberry Pi 5 and an Arm-based cloud instance. We have validated this on an AWS Graviton instance but it is expected to work through other cloud service providers.
 
-## Course structure
+## Course structure 1
 This course consists of three hands-on labs and four lectures.
 
 ### Hands-on labs
@@ -42,6 +42,33 @@ Inside the `slides/` folder, you will find four lectures covering the key concep
 | Lecture 3 | [chapter3.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter3.pptx)  | **ML Frameworks and Optimized Libraries** | A deep dive into AI software stacks, including PyTorch, ONNX Runtime, and Arm-specific optimizations. |
 | Lecture 4 | [chapter4.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter4.pptx)  | **Optimization for CPU Inference**  | Techniques such as quantization, pruning, and leveraging SIMD instructions for faster AI performance. |
 
+## Course structure 2
+This course consists of three hands-on labs and four lectures. You can either complete the labs on their own, or follow the learning sequence suggested below, which includes complementary lectures.
+
+
+|    | Part      | File                                                                                        | Title                                                | Focus                                                                      |
+|----|-----------|---------------------------------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------------------------|
+| 01 | Lecture 1 | [chapter1.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter1.pptx)  | **Challenges Facing Cloud and Edge GenAI Inference** | Understanding the limitations and constraints of AI inference in different environments.             |
+| 02 | Lab 1     | [lab1.ipynb](https://github.com/arm-education/AI-on-Arm/blob/main/lab1.ipynb)               |                                                      | Optimizing generative AI on mobile devices, such as the Raspberry Pi 5.    |
+| 03 | Lecture 2 | [chapter2.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter2.pptx)  | **Generative AI Models**                             | Exploring model architectures, training methodologies, and deployment considerations.                 |
+| 04 | Lab 2     | [lab2.ipynb](https://github.com/arm-education/AI-on-Arm/blob/main/lab2.ipynb)               |                                                      | Deploying AI workloads on Arm-based cloud servers, including AWS Graviton. |
+| 05 | Lecture 3 | [chapter3.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter3.pptx)  | **ML Frameworks and Optimized Libraries**            | A deep dive into AI software stacks, including PyTorch, ONNX Runtime, and Arm-specific optimizations. |
+| 06 | Lab 3     | [lab3.ipynb](https://github.com/arm-education/AI-on-Arm/blob/main/lab3.ipynb)               |                                                      | Comparing Cloud vs. Edge inference, analyzing challenges and trade-offs.   |
+| 07 | Lecture 4 | [chapter4.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter4.pptx)  | **Optimization for CPU Inference**                   | Techniques such as quantization, pruning, and leveraging SIMD instructions for faster AI performance. |
+
+---
+---
+NEXT ADD TICK LIST FOR PROGRESS AND MAKE the sequence explicit in the repo structure
+e.g., 
+01-introduction/
+02-setup/
+03-first-program/
+04-advanced-topic/
+---
+---
+
+
+
 ---
 
 ## 🚀 Start here 🚀
@@ -49,7 +76,7 @@ Inside the `slides/` folder, you will find four lectures covering the key concep
 > **New to this course? Follow these steps:**
 >
 > - Clone the repo with `git clone https://github.com/arm-education/ai_on_arm.git`
-> - Follow the [setup guide](https://github.com/dav-mac/AI-on-Arm/blob/main/getting_started.md) to get your environment ready and launch your first lab.
+> - Follow the [getting started](https://github.com/dav-mac/AI-on-Arm/blob/main/getting_started.md) guide to get your environment ready and launch your first lab.
 
 ---
 
