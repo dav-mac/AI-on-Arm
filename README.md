@@ -64,6 +64,7 @@ e.g.,
 02-setup/
 03-first-program/
 04-advanced-topic/
+Maybe need to use folders to group the getting started steps and the jupyter notebook? Does this work though?
 ---
 ---
 
