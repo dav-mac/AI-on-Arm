@@ -53,6 +53,16 @@ To help track your progress through the course, you may find it useful to update
 - [ ] Lecture 3 - ML Frameworks and Optimized Libraries
 - [ ] Lecture 4 - Optimization for CPU Inference
 
+**QUESTION** Can we recommend an order to consume the lectures/labs in?
+
+**QUESTION** - can we make the sequence explicit in the repo structure?
+e.g., 
+- 01-introduction/
+- 02-setup/
+- 03-first-program/
+- 04-advanced-topic/
+Maybe need to use folders to group the getting started steps and the jupyter notebook? Does this work though?
+
 ---
 
 ## 🚀 Start here 🚀
@@ -82,11 +92,3 @@ Arm is working actively with our partners, standards bodies, and the wider ecosy
  
 Contact us at education@arm.com with questions or comments about this course. You can also report non-inclusive and offensive terminology usage in Arm content at terms@arm.com.
 
-## Question - can we make the sequence explicit in the repo structure?
-
-e.g., 
-- 01-introduction/
-- 02-setup/
-- 03-first-program/
-- 04-advanced-topic/
-Maybe need to use folders to group the getting started steps and the jupyter notebook? Does this work though?
