@@ -42,6 +42,8 @@ Inside the `slides/` folder, you will find four lectures covering the key concep
 | Lecture 3 | [chapter3.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter3.pptx)  | **ML Frameworks and Optimized Libraries** | A deep dive into AI software stacks, including PyTorch, ONNX Runtime, and Arm-specific optimizations. |
 | Lecture 4 | [chapter4.pptx](https://github.com/arm-education/AI-on-Arm/blob/main/slides/chapter4.pptx)  | **Optimization for CPU Inference**  | Techniques such as quantization, pruning, and leveraging SIMD instructions for faster AI performance. |
 
+### Progress Tracker
+
 To help track your progress through the course, you may find it useful to update this checklist:
 
 - [x] **Checklist**
@@ -53,15 +55,16 @@ To help track your progress through the course, you may find it useful to update
 - [ ] Lecture 3 - ML Frameworks and Optimized Libraries
 - [ ] Lecture 4 - Optimization for CPU Inference
 
-**QUESTION** Can we recommend an order to consume the lectures/labs in?
+**Question 1:** Can we recommend an order to consume the Labs/Lectures in?
 
-**QUESTION** - can we make the sequence explicit in the repo structure?
+**Question 2:** Can we make the sequence explicit in the repo structure?
 e.g., 
-- 01-introduction/
-- 02-setup/
-- 03-first-program/
-- 04-advanced-topic/
-Maybe need to use folders to group the getting started steps and the jupyter notebook? Does this work though?
+01-introduction/
+02-getting-started/
+03-Lab-1/
+04-Lecture-1/
+
+(Would reorganizing into folders break anything? e.g., putting the getting started steps and jupyter notebook into a getting-started folder?)
 
 ---
 
