@@ -60,10 +60,11 @@ To help track your progress through the course, you may find it useful to update
 **Question 1:** Can we recommend an optional path through the content / an order to consume the Labs/Lectures in?
 
 **Question 2:** Can we make the sequence explicit in the repo structure?
-e.g., 
-01-introduction/
-02-getting-started/
-03-Lab-1/
+
+e.g.,  
+01-introduction/  
+02-getting-started/  
+03-Lab-1/  
 04-Lecture-1/
 
 (Would reorganizing into folders break anything? e.g., putting the getting started steps and jupyter notebook into a getting-started folder?)
