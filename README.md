@@ -47,13 +47,15 @@ Inside the `slides/` folder, you will find four lectures covering the key concep
 To help track your progress through the course, you may find it useful to update this checklist:
 
 - [x] **Checklist**
-- [ ] Lab 1
-- [ ] Lab 2
-- [ ] Lab 3
+- [ ] Lab 1 - Optimizing generative AI on mobile devices
+- [ ] Lab 2 - Deploying AI workloads on Arm-based cloud servers
+- [ ] Lab 3 - Comparing Cloud vs. Edge inference
 - [ ] Lecture 1 - Challenges Facing Cloud and Edge GenAI Inference
 - [ ] Lecture 2 - Generative AI Models
 - [ ] Lecture 3 - ML Frameworks and Optimized Libraries
 - [ ] Lecture 4 - Optimization for CPU Inference
+
+### Questions
 
 **Question 1:** Can we recommend an order to consume the Labs/Lectures in?
 
