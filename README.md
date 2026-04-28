@@ -57,7 +57,7 @@ To help track your progress through the course, you may find it useful to update
 
 ### Questions
 
-**Question 1:** Can we recommend an order to consume the Labs/Lectures in?
+**Question 1:** Can we recommend an optional path through the content / an order to consume the Labs/Lectures in?
 
 **Question 2:** Can we make the sequence explicit in the repo structure?
 e.g., 
